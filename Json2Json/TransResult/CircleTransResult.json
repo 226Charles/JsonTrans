@@ -1,0 +1,59 @@
+{
+    "Test-0008-100.jpg": [
+        {
+            "diagnosis": [],
+            "imageClass": [],
+            "lesion": [
+                {
+                    "color": null,
+                    "handles": {
+                        "end": {
+                            "x": 669.380870561283,
+                            "y": 822.9209621993124,
+                            "active": false,
+                            "moving": false,
+                            "highlight": true
+                        },
+                        "start": {
+                            "x": 831.4713631156931,
+                            "y": 949.3871706758302,
+                            "active": false,
+                            "highlight": true
+                        },
+                        "textBox": {
+                            "x": null,
+                            "y": null,
+                            "active": false,
+                            "hasMoved": false,
+                            "boundingBox": {
+                                "top": null,
+                                "left": null,
+                                "width": 1924,
+                                "height": 1556
+                            },
+                            "hasBoundingBox": true,
+                            "drawnIndependently": true,
+                            "movesIndependently": false,
+                            "allowedOutsideImage": true
+                        },
+                        "centerPoint": {
+                            "x": 750.426116838488,
+                            "y": 886.1540664375713,
+                            "z": 3
+                        },
+                        "initialRotation": "0"
+                    },
+                    "toolType": "EllipticalRoi",
+                    "extra": {
+                        "color": null,
+                        "label": null,
+                        "labelContent": {},
+                        "nodeType": "check",
+                        "lesionNumber": "1",
+                        "instanceNumber": "1"
+                    }
+                }
+            ]
+        }
+    ]
+}

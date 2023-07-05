@@ -1,0 +1,59 @@
+{
+    "6TNHHIkBkL3dobzDG2ZM/Test-0008-100.png": [
+        {
+            "diagnosis": [],
+            "imageClass": [],
+            "lesion": [
+                {
+                    "color": "#347caf",
+                    "handles": {
+                        "end": {
+                            "x": 819.0692758486252,
+                            "y": 975.833802972838,
+                            "active": false,
+                            "moving": false,
+                            "highlight": true
+                        },
+                        "start": {
+                            "x": 527.1685006548269,
+                            "y": 709.2632603371791,
+                            "active": false,
+                            "highlight": true
+                        },
+                        "textBox": {
+                            "x": 819.0692758486252,
+                            "y": 842.5485316550084,
+                            "active": false,
+                            "hasMoved": false,
+                            "boundingBox": {
+                                "top": 685.5138854980469,
+                                "left": 970.003448486328,
+                                "width": 146.6953125,
+                                "height": 26
+                            },
+                            "hasBoundingBox": true,
+                            "drawnIndependently": true,
+                            "movesIndependently": false,
+                            "allowedOutsideImage": true
+                        },
+                        "centerPoint": {
+                            "x": 673.118888251726,
+                            "y": 842.5485316550084,
+                            "z": 1
+                        },
+                        "initialRotation": 0
+                    },
+                    "toolType": "RectangleRoi",
+                    "extra": {
+                        "color": "#347caf",
+                        "label": "578216895604883466",
+                        "labelContent": {},
+                        "nodeType": "check",
+                        "lesionNumber": "1",
+                        "instanceNumber": "1"
+                    }
+                }
+            ]
+        }
+    ]
+}

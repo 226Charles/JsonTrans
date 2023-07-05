@@ -1,0 +1,199 @@
+{
+    "Config": {
+        "Ambient": 0.3,
+        "CanRepeatLabel": false,
+        "Diffuse": 0.6,
+        "ExcludeFileSuffixList": "",
+        "FileTagTitle1": "",
+        "FileTagTitle2": "",
+        "FileTagTitle3": "",
+        "IsLoadDicomToVideo": false,
+        "IsSaveSrcFile": true,
+        "KEY": "",
+        "LabelSavePath": "",
+        "LandMark3DScale": 1.0,
+        "LandMarkActorScale": 1.0,
+        "PlayInterval": 100,
+        "PolyPointScale": 1.0,
+        "Record_Time": 5,
+        "RectActorScale": 1.0,
+        "SegModelPaths": null,
+        "SliceCount": 1,
+        "SliceSpacing": 1.0,
+        "Specular": 0.1,
+        "zh_CN": null
+    },
+    "CurvePointIds": null,
+    "Curves": [
+        {
+            "Shapes": null,
+            "SliceType": 3
+        }
+    ],
+    "FileInfo": {
+        "Commit": "074c4f6",
+        "Date": "2023/05/15-09:43:58",
+        "Depth": 3,
+        "Height": 1556,
+        "Name": "Test-0008-100.jpg",
+        "Version": "v2.7.1",
+        "Width": 1924
+    },
+    "FileName": "Test-0008-100_jpg",
+    "LabelGroup": null,
+    "Models": {
+        "AngleModel": null,
+        "BoundingBox3DLabelModel": null,
+        "BoundingBoxLabelModel": null,
+        "CircleModel": null,
+        "ColorLabelTableModel": [
+            {
+                "Color": [
+                    255,
+                    0,
+                    0,
+                    255
+                ],
+                "Desc": "Label 1",
+                "ID": 1
+            },
+            {
+                "Color": [
+                    0,
+                    255,
+                    0,
+                    255
+                ],
+                "Desc": "Label 2",
+                "ID": 2
+            },
+            {
+                "Color": [
+                    0,
+                    0,
+                    255,
+                    255
+                ],
+                "Desc": "Label 3",
+                "ID": 3
+            },
+            {
+                "Color": [
+                    255,
+                    255,
+                    0,
+                    255
+                ],
+                "Desc": "Label 4",
+                "ID": 4
+            },
+            {
+                "Color": [
+                    0,
+                    255,
+                    255,
+                    255
+                ],
+                "Desc": "Label 5",
+                "ID": 5
+            },
+            {
+                "Color": [
+                    255,
+                    0,
+                    255,
+                    255
+                ],
+                "Desc": "Label 6",
+                "ID": 6
+            }
+        ],
+        "EllipseModel": null,
+        "FrameLabelModel": null,
+        "LabelDetailModel": null,
+        "LandMarkListModel": null,
+        "MaskEditRecordModel": null,
+        "MeasureModel": null,
+        "MeshModel": null,
+        "MprPositionModel": null,
+        "PolygonModel": {
+            "3": [
+                0
+            ]
+        },
+        "PolygonModel2": null,
+        "ResliceLabelModel": null
+    },
+    "Polys": [
+        {
+            "Shapes": [
+                {
+                    "FindInPolygonVal": 1,
+                    "ImageFrame": 0,
+                    "Points": [
+                        {
+                            "Pos": [
+                                664.0372279495991,
+                                712.4856815578464,
+                                0.0
+                            ]
+                        },
+                        {
+                            "Pos": [
+                                697.880297823597,
+                                740.9851088201602,
+                                0.0
+                            ]
+                        },
+                        {
+                            "Pos": [
+                                776.2537227949599,
+                                771.2657502863688,
+                                0.0
+                            ]
+                        },
+                        {
+                            "Pos": [
+                                802.9719358533794,
+                                776.6093928980525,
+                                0.0
+                            ]
+                        },
+                        {
+                            "Pos": [
+                                799.40950744559,
+                                872.7949599083619,
+                                0.0
+                            ]
+                        },
+                        {
+                            "Pos": [
+                                676.5057273768615,
+                                972.5429553264603,
+                                0.0
+                            ]
+                        },
+                        {
+                            "Pos": [
+                                567.85166093929,
+                                899.5131729667811,
+                                0.0
+                            ]
+                        },
+                        {
+                            "Pos": [
+                                553.601947308133,
+                                792.6403207331042,
+                                0.0
+                            ]
+                        }
+                    ],
+                    "SliceType": 3,
+                    "labelType": 6
+                }
+            ],
+            "SliceType": 3
+        }
+    ],
+    "Timeline": null
+}
