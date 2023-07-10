@@ -1,1 +1,150 @@
-{"Config":{"Ambient":0.3,"CanRepeatLabel":false,"Diffuse":0.6,"ExcludeFileSuffixList":"","FileTagTitle1":"","FileTagTitle2":"","FileTagTitle3":"","IsLoadDicomToVideo":false,"IsSaveSrcFile":true,"KEY":"","LabelSavePath":"","LandMark3DScale":1.0,"LandMarkActorScale":1.0,"PlayInterval":100,"PolyPointScale":1.0,"Record_Time":5,"RectActorScale":1.0,"SegModelPaths":null,"SliceCount":1,"SliceSpacing":1.0,"Specular":0.1,"zh_CN":null},"CurvePointIds":null,"Curves":[{"Shapes":null,"SliceType":3}],"FileInfo":{"Commit":"074c4f6","Date":"2023/05/15-09:43:58","Depth":3,"Height":1556,"Name":"Test-0008-100.jpg","Version":"v2.7.1","Width":1924},"FileName":"Test-0008-100_jpg","LabelGroup":null,"Models":{"AngleModel":null,"BoundingBox3DLabelModel":null,"BoundingBoxLabelModel":null,"CircleModel":[{"Label":6,"P1":[669.380870561283,822.9209621993124,0.0],"P2":[831.4713631156931,949.3871706758302,0.0],"P3":[750.426116838488,886.1540664375713,0.0],"SliceIndex":0,"SliceType":3}],"ColorLabelTableModel":[{"Color":[255,0,0,255],"Desc":"Label 1","ID":1},{"Color":[0,255,0,255],"Desc":"Label 2","ID":2},{"Color":[0,0,255,255],"Desc":"Label 3","ID":3},{"Color":[255,255,0,255],"Desc":"Label 4","ID":4},{"Color":[0,255,255,255],"Desc":"Label 5","ID":5},{"Color":[255,0,255,255],"Desc":"Label 6","ID":6}],"EllipseModel":null,"FrameLabelModel":null,"LabelDetailModel":null,"LandMarkListModel":null,"MaskEditRecordModel":null,"MeasureModel":null,"MeshModel":null,"MprPositionModel":null,"PolygonModel":{"3":null},"PolygonModel2":null,"ResliceLabelModel":null},"Polys":[{"Shapes":null,"SliceType":3}],"Timeline":null}
+{
+    "Config": {
+        "Ambient": 0.3,
+        "CanRepeatLabel": false,
+        "Diffuse": 0.6,
+        "ExcludeFileSuffixList": "",
+        "FileTagTitle1": "",
+        "FileTagTitle2": "",
+        "FileTagTitle3": "",
+        "IsLoadDicomToVideo": false,
+        "IsSaveSrcFile": true,
+        "KEY": "",
+        "LabelSavePath": "",
+        "LandMark3DScale": 1.0,
+        "LandMarkActorScale": 1.0,
+        "PlayInterval": 100,
+        "PolyPointScale": 1.0,
+        "Record_Time": 5,
+        "RectActorScale": 1.0,
+        "SegModelPaths": null,
+        "SliceCount": 1,
+        "SliceSpacing": 1.0,
+        "Specular": 0.1,
+        "zh_CN": null
+    },
+    "CurvePointIds": null,
+    "Curves": [
+        {
+            "Shapes": null,
+            "SliceType": 3
+        }
+    ],
+    "FileInfo": {
+        "Commit": "074c4f6",
+        "Date": "2023/05/15-09:43:58",
+        "Depth": 3,
+        "Height": 1556,
+        "Name": "Test-0008-100.jpg",
+        "Version": "v2.7.1",
+        "Width": 1924
+    },
+    "FileName": "Test-0008-100_jpg",
+    "LabelGroup": null,
+    "Models": {
+        "AngleModel": null,
+        "BoundingBox3DLabelModel": null,
+        "BoundingBoxLabelModel": null,
+        "CircleModel": null,
+        "ColorLabelTableModel": [
+            {
+                "Color": [
+                    255,
+                    0,
+                    0,
+                    159
+                ],
+                "Desc": "Label 1",
+                "ID": 1
+            },
+            {
+                "Color": [
+                    0,
+                    255,
+                    0,
+                    155
+                ],
+                "Desc": "Label 2",
+                "ID": 2
+            },
+            {
+                "Color": [
+                    0,
+                    0,
+                    255,
+                    159
+                ],
+                "Desc": "Label 3",
+                "ID": 3
+            },
+            {
+                "Color": [
+                    255,
+                    255,
+                    0,
+                    255
+                ],
+                "Desc": "Label 4",
+                "ID": 4
+            },
+            {
+                "Color": [
+                    0,
+                    255,
+                    255,
+                    221
+                ],
+                "Desc": "Label 5",
+                "ID": 5
+            },
+            {
+                "Color": [
+                    255,
+                    0,
+                    255,
+                    255
+                ],
+                "Desc": "Label 6",
+                "ID": 6
+            }
+        ],
+        "EllipseModel": [
+            {
+                "Center": [
+                    625.741122565865,
+                    814.9054982817868,
+                    0.0
+                ],
+                "Label": 2,
+                "MajorAxis": 187.91809851088203,
+                "MinorAxis": 177.23081328751425,
+                "Normal": [
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "SliceIndex": 0,
+                "SliceType": 3
+            }
+        ],
+        "FrameLabelModel": null,
+        "LabelDetailModel": null,
+        "LandMarkListModel": null,
+        "MaskEditRecordModel": null,
+        "MeasureModel": null,
+        "MeshModel": null,
+        "MprPositionModel": null,
+        "PolygonModel": {
+            "3": null
+        },
+        "PolygonModel2": null,
+        "ResliceLabelModel": null
+    },
+    "Polys": [
+        {
+            "Shapes": null,
+            "SliceType": 3
+        }
+    ],
+    "Timeline": null
+}
