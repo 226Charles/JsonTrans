@@ -8,15 +8,15 @@
                     "color": "#347caf",
                     "handles": {
                         "end": {
-                            "x": 542.9146620847653,
-                            "y": 705.360824742268,
+                            "x": 719.700171821306,
+                            "y": 903.5209049255438,
                             "active": false,
                             "moving": false,
                             "highlight": true
                         },
                         "start": {
-                            "x": 831.4713631156932,
-                            "y": 947.6059564719358,
+                            "x": 531.782073310424,
+                            "y": 726.2900916380297,
                             "active": false,
                             "highlight": true
                         },
@@ -37,13 +37,13 @@
                             "allowedOutsideImage": true
                         },
                         "centerPoint": {
-                            "x": 687.1930126002292,
-                            "y": 889.5386597938145,
+                            "x": 625.741122565865,
+                            "y": 814.9054982817868,
                             "z": 3
                         },
-                        "initialRotation": -0.0
+                        "initialRotation": "0"
                     },
-                    "toolType": "RectangleRoi",
+                    "toolType": "EllipticalRoi",
                     "extra": {
                         "color": "#347caf",
                         "label": null,

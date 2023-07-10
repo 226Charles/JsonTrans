@@ -1,0 +1,154 @@
+{
+    "Test-0008-100.jpg": [
+        {
+            "diagnosis": [],
+            "imageClass": [],
+            "lesion": [
+                {
+                    "color": "#347caf",
+                    "handles": {
+                        "end": {
+                            "x": 728.1609392898054,
+                            "y": 760.5784650630011,
+                            "active": false,
+                            "moving": false,
+                            "highlight": true
+                        },
+                        "start": {
+                            "x": 728.1609392898054,
+                            "y": 1350.1603665521188,
+                            "active": false,
+                            "highlight": true
+                        },
+                        "textBox": {
+                            "x": null,
+                            "y": null,
+                            "active": false,
+                            "hasMoved": false,
+                            "boundingBox": {
+                                "top": null,
+                                "left": null,
+                                "width": 1924,
+                                "height": 1556
+                            },
+                            "hasBoundingBox": true,
+                            "drawnIndependently": true,
+                            "movesIndependently": false,
+                            "allowedOutsideImage": true
+                        },
+                        "centerPoint": {
+                            "x": 728.1609392898054,
+                            "y": 1055.36941580756,
+                            "z": 3
+                        }
+                    },
+                    "toolType": "Length",
+                    "extra": {
+                        "color": "#347caf",
+                        "label": null,
+                        "labelContent": {},
+                        "nodeType": "check",
+                        "lesionNumber": "1",
+                        "instanceNumber": "1"
+                    }
+                },
+                {
+                    "color": "#347caf",
+                    "handles": {
+                        "end": {
+                            "x": 591.0074455899199,
+                            "y": 744.5475372279494,
+                            "active": false,
+                            "moving": false,
+                            "highlight": true
+                        },
+                        "start": {
+                            "x": 726.3797250859108,
+                            "y": 744.5475372279494,
+                            "active": false,
+                            "highlight": true
+                        },
+                        "textBox": {
+                            "x": null,
+                            "y": null,
+                            "active": false,
+                            "hasMoved": false,
+                            "boundingBox": {
+                                "top": null,
+                                "left": null,
+                                "width": 1924,
+                                "height": 1556
+                            },
+                            "hasBoundingBox": true,
+                            "drawnIndependently": true,
+                            "movesIndependently": false,
+                            "allowedOutsideImage": true
+                        },
+                        "centerPoint": {
+                            "x": 658.6935853379154,
+                            "y": 744.5475372279494,
+                            "z": 3
+                        }
+                    },
+                    "toolType": "Length",
+                    "extra": {
+                        "color": "#347caf",
+                        "label": null,
+                        "labelContent": {},
+                        "nodeType": "check",
+                        "lesionNumber": "1",
+                        "instanceNumber": "1"
+                    }
+                },
+                {
+                    "color": "#347caf",
+                    "handles": {
+                        "end": {
+                            "x": 354.105956471936,
+                            "y": 985.0114547537227,
+                            "active": false,
+                            "moving": false,
+                            "highlight": true
+                        },
+                        "start": {
+                            "x": 1513.676403207331,
+                            "y": 985.0114547537227,
+                            "active": false,
+                            "highlight": true
+                        },
+                        "textBox": {
+                            "x": null,
+                            "y": null,
+                            "active": false,
+                            "hasMoved": false,
+                            "boundingBox": {
+                                "top": null,
+                                "left": null,
+                                "width": 1924,
+                                "height": 1556
+                            },
+                            "hasBoundingBox": true,
+                            "drawnIndependently": true,
+                            "movesIndependently": false,
+                            "allowedOutsideImage": true
+                        },
+                        "centerPoint": {
+                            "x": 933.8911798396335,
+                            "y": 985.0114547537227,
+                            "z": 3
+                        }
+                    },
+                    "toolType": "Length",
+                    "extra": {
+                        "color": "#347caf",
+                        "label": null,
+                        "labelContent": {},
+                        "nodeType": "check",
+                        "lesionNumber": "1",
+                        "instanceNumber": "1"
+                    }
+                }
+            ]
+        }
+    ]
+}
